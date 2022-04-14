@@ -267,7 +267,7 @@ footer .direitos p {
 		background-repeat: no-repeat;
 		background-size: cover;
 		background-attachment: fixed;
-		background-position: right, center;
+		background-position: center;
 	}
 	main .bg-meio .element-1 {
 		transform: rotate(45deg);
