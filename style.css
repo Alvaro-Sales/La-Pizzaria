@@ -207,7 +207,7 @@ footer .direitos p {
 		background-repeat: no-repeat;
 		background-size: cover;
 		background-attachment: fixed;
-		background-position: left, bottom;
+		background-position: bottom;
 	}
 	main #bg-top .txt-top {
 		width: 100%;
