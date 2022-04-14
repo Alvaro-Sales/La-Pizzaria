@@ -207,7 +207,7 @@ footer .direitos p {
 		background-repeat: no-repeat;
 		background-size: cover;
 		background-attachment: fixed;
-		background-position: center, bottom;
+		background-position: center;
 	}
 	main #bg-top .txt-top {
 		width: 100%;
@@ -267,7 +267,7 @@ footer .direitos p {
 		background-repeat: no-repeat;
 		background-size: cover;
 		background-attachment: fixed;
-		background-position: center, right;
+		background-position: right, center;
 	}
 	main .bg-meio .element-1 {
 		transform: rotate(45deg);
