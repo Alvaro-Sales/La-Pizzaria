@@ -165,7 +165,7 @@ main .bg-meio {
 	justify-content: center;
 	align-items: center;
 	max-width: 100vw;
-	height: 130vh;
+	height: 100vh;
 	background-image: url(./imagem/pizzaiolo.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
