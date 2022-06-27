@@ -323,7 +323,7 @@ footer .direitos p {
 	padding-top: 200px;
 	}
     .nav-list {
-	z-index: 99;
+	z-index: 2;
         position: absolute;
         top: 6vh;
         right: 0;
@@ -341,6 +341,7 @@ footer .direitos p {
         padding: 100px 0;
     }
     .nav-list li {
+	max-height: 85%;
         margin-left: 0;
         opacity: 0;
     }
