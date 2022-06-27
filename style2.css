@@ -607,11 +607,14 @@ footer .direitos p {
 }
 
 @media (max-width: 800px) {
+     body {
+        overflow-x: hidden;
+    }
     .nav-list {
         position: absolute;
         top: 6vh;
         right: 0;
-        width: 100vw;
+        width: 50vw;
         height: 94vh;
         background-color: #262626;
         flex-direction: column;
@@ -619,7 +622,7 @@ footer .direitos p {
         justify-content: space-around;
         box-sizing: border-box;
 	padding: 100px 0;
-        transform: translateX(-100%);
+        transform: translateX(100%);
         transition: transform .3s ease-in;
     }
     .nav-list li {
