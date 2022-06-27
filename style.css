@@ -227,6 +227,10 @@ main #txt-element-2 {
 	margin-bottom: 225px;
 }
 
+.carousel {
+	z-index: 3;
+}
+
 main .p-priv {
 	display: block;
 	margin: auto;
@@ -323,7 +327,6 @@ footer .direitos p {
 	padding-top: 200px;
 	}
     .nav-list {
-	z-index: 2;
         position: absolute;
         top: 6vh;
         right: 0;
