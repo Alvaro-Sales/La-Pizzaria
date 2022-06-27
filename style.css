@@ -323,6 +323,7 @@ footer .direitos p {
 	padding-top: 200px;
 	}
     .nav-list {
+	z-index: 99;
         position: absolute;
         top: 6vh;
         right: 0;
@@ -336,6 +337,8 @@ footer .direitos p {
 	padding: 100px 0;
         transform: translateX(100%);
         transition: transform .3s ease-in;
+	box-sizing: border-box;
+        padding: 100px 0;
     }
     .nav-list li {
         margin-left: 0;
