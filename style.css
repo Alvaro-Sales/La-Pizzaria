@@ -14,7 +14,7 @@ body {
 
 header {
 	width: 100vw;
-	z-index: 1;
+	z-index: 99;
 	position: fixed;
 }
 
@@ -228,7 +228,7 @@ main #txt-element-2 {
 }
 
 .carousel {
-	z-index: 3;
+	z-index: 1;
 }
 
 main .p-priv {
